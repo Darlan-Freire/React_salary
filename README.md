@@ -1,3 +1,5 @@
+## Está é uma aplicação feita com React, para calcular os descontos do salário bruto como INSS, imposto de renda, e gerar o salário líquido. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
